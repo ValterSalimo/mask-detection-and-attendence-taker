@@ -32,8 +32,8 @@ Clone the Repository:
 
 bash
 Copy
-git clone https://github.com/your-username/mask-detection-attendance-system.git
-cd mask-detection-attendance-system
+git clone https://github.com/ValterSalimo/mask-detection-and-attendence-taker.git
+mask-detection-and-attendence-taker
 Install Dependencies:
 
 bash
